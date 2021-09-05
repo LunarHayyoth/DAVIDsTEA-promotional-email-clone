@@ -48,7 +48,7 @@ Screenshots
 Methodology
 ---
 
-On the email, I clicked to view the email on a separate screen. I extracted the images using the program [Eagle](https://eagle.cool/), and went into 
+On the email, I clicked to view the email on a separate screen. I extracted the images using the program [Eagle](https://eagle.cool/), fixed up the Logos in Photoshop (get rid of the white background), and went to the main website to get the color code for the main green colour.
 
 <br>
 
@@ -72,5 +72,7 @@ About me
 ---
 
 Thanks for checking out this project! 😃 You can find my profiles at these sites:
+
+- [Personal website](www.sonjigoodman.com)
 - [Twitter: @IT_Sonji](https://twitter.com/sonji_it)
 - [Frontend Mentor - @infinity-Mineeva](https://www.frontendmentor.io/profile/Infinity-Mineeva)
