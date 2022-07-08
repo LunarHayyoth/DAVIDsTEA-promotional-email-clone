@@ -73,6 +73,6 @@ About me
 
 Thanks for checking out this project! 😃 You can find my profiles at these sites:
 
-- [Personal website](www.sonjigoodman.com)
+- [Personal website](https://www.sonjigoodman.com)
 - [Twitter: @IT_Sonji](https://twitter.com/sonji_it)
 - [Frontend Mentor - @infinity-Mineeva](https://www.frontendmentor.io/profile/Infinity-Mineeva)
